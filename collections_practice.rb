@@ -39,7 +39,7 @@ end
 def find_a(array)
   array.reject do |word|
     word_s = word.split("")
-    if word_s.first != a 
+    word_s.first != a 
 
   end
 
