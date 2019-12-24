@@ -50,4 +50,4 @@ def add_s(array)
     new_array << word
   end
   return new_array
-end 
+end
