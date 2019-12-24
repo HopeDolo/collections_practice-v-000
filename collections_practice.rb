@@ -44,9 +44,6 @@ array.inject { |sum, n| sum + n}
 end
 
 def add_s(array)
-  array.collect do |word|
+  array.each do |word|
     word + "s"
-  array[1] = "feet"
-  array
 end
-end 
