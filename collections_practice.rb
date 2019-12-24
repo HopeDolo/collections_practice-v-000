@@ -48,7 +48,7 @@ def add_s(array)
   array.each do |word|
     word_s = word + "s"
     new_array << word_s
+  end 
     new_array[1] = "feet"
     return new_array
-  end
 end
