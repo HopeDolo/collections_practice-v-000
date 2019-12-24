@@ -48,5 +48,4 @@ def add_s(array)
     word + "s"
   end
   array[1] = "feet"
-
 end
