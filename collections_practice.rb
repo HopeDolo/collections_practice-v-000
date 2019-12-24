@@ -41,9 +41,6 @@ def find_a(array)
     word_s = word.split("")
     word_s.first != "a"
   end
-
-
-
 end
 
 
