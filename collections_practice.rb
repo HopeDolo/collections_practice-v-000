@@ -40,7 +40,6 @@ def find_a(array)
   array.reject do |word|
     word_s = word.split("")
     word_s.first != "a" 
-
   end
 
 
