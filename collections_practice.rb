@@ -41,7 +41,7 @@ def find_a(array)
     word_s = word.split("")
 
   end
-  
+
 
 
 end
